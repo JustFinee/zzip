@@ -1,1 +1,3 @@
 dodaje plik i wprowadzam zmiany
+
+zmiany, ktore beda widoczne w commicie
