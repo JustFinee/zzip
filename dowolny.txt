@@ -1,1 +1,2 @@
 Dowolny plik
+Dodaje zmiany do pliku
